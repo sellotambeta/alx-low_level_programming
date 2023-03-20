@@ -3,7 +3,7 @@
 /**
  * main - proper grammer
  *
- * Return : 0  when succesfull
+ * Return: 0  when succesfull
  */
 
 int main(void)
