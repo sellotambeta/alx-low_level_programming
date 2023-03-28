@@ -4,7 +4,7 @@
  * _strlen - strings
  * Return: return 0
  * @s: String
- */ 
+ */
 
 int _strlen(char *s)
 {
